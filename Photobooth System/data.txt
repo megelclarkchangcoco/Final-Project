@@ -1,0 +1,24 @@
+Organizer , Celebrant , Contact , Event Place , Event Type , Amount , Layout , Design , Backdrops , Magnetic , Extend , FileName , Date
+Thompson/Klay/092955274/Jollibee/1st BIrthday/3000.0 DP/Standard/7. Frozen/10. Light White/Magnetic//Insert File /2023-06-30
+Thompson/Klay/092955274/Jollibee/1st BIrthday/3000.0 Paid/Standard/7. Frozen/10. Light White/Magnetic//Insert File /2023-06-30
+sad/asdas/123123213/sdas/sad/3500.0 Paid/Standard/21. Babyshark/1. Green Screen/Magnetic/30 Minute/Insert File/12:20:2014
+Manager/Group Party/092929929/Chwoking/Christmas Party/4800.0 Paid/Standard/7. Barbie Design/6. Pink/Magnetic/1 Hour/Insert File/12:25:2023
+Manager/Group Party/092929929/Chwoking/Christmas Party/500.0 DP/Standard/7. Barbie Design/6. Pink/Magnetic/1 Hour/Insert File/12:25:2023
+Megels/Migsxtan/125478895/Lucio tan/Wedding /5000.0 Paid/Standard/1. White - Gray - Green/10. Light White/Magnetic/30 Minute/Insert File/12:01:2024
+Khlamebang/Berting/000123465/Mcdonalds/Suprise Event/2500.0 DP/Standard/1. Polaroid Height(4.1) Width(4.1)/8. Silver/Magnetic/1 Hour/Insert File/11:11:2025
+Curry/Stephen/096543217/Makati/1st Birthday/2000.0 DP/Standard/1. Disney Princess (Arial)/1. Green Screen/Magnetic/1 Hour/Insert File/02:13:2024
+Malik/ZaynxSelena/097845612/Romulo/Wedding/2150.0 DP/Standard/6. Jungle Design/6. Pink/Magnetic/30 Minute/Insert File/02:12:2024
+Vegetta/Goku/092992525/Cathedral/Binyag/2000.0 DP/Standard/7. Panda - Rainbow/3. Tinsel/Magnetic/30 Minute/Insert File/12:12:2021
+manager/Group Party/098524565/Jollibee/Xmas/2000.0 DP/Standard/2. Polaroid Height(3.3) Width(4.5)/6. Pink/Magnetic/1 Hour/Insert File/11:11:2023
+das/das/778978987/das/sad/4000.0 Paid/Standard/7. Frozen/6. Pink/Magnetic/1 Hour/Insert File/20:15:2003
+dfdsf/dfs/234234324/das/dsf/4800.0 Paid/Standard/6. Jungle Design/3. Tinsel/Magnetic/1 Hour/Insert File/21:12:2332
+dsa/sasda/121232312/sad/sad/3000.0 Paid/Standard/6. Barbie/4. Gold/Magnetic//Insert File/23:23:2323
+sadsadas/sadsa/13221312/dsadsa/dsfd/4500.0 Paid/Standard/7. Frozen/2. Black/Magnetic/30 Minute/             1 Hour/Insert File/12:21:2131
+sadsa/sadsa/095145645/sadsa/bisasd/5300.0 Paid/Standard/7. Barbie Design/3. Tinsel/Magnetic/30 Minute/             1 Hour/Insert File/09:30:2021
+Enter Organizer Name/Enter Celebrant Name/Enter Contact Number/Enter Event Place/Enter Event Type/5000.0 Paid/Standard/Choose Dedication Layout Design/Choose Backdrops/Magnetic/30 Minute/             1 Hour/Insert File/MM:DD:YYYY
+Enter Organizer Name/Enter Celebrant Name/Enter Contact Number/Enter Event Place/Enter Event Type/5300.0 Paid/Standard/Choose Polaroid Layout Size/Choose Backdrops/Magnetic/30 Minute/             1 Hour/Insert File/MM:DD:YYYY
+Christian/Miguel/092955274/Jollibee/Birthday/4800.0 Paid/Standard/2. White - Redrose/7. Violet/Magnetic/1 Hour/Insert File/23:12:2021
+Enter Organizer Name/Enter Celebrant Name/Enter Contact Number/Enter Event Place/Enter Event Type/1500.0 DP/Standard/3. Wreck it ralph (Vanellope)/1. Green Screen/Magnetic/30 Minute/own.png/22:DD:YYYY
+sad/sad/123123123/das/sad/2000.0 DP/Standard/6. Barbie/5. Pink White/Magnetic/1 Hour/Insert File/01:12:2025
+sadsa/asdas/213123121/sad/sad/3800.0 Paid/Standard/6. Jungle Design/7. Violet/Magnetic/1 Hour/Insert File/12:30:2024
+asdasd/dsad/213123123/sadas/sad/4500.0 Paid/Standard/2. White - Flowers - Dark Blue/1. Green Screen/Magnetic/1 Hour/Insert File/12:31:2023
